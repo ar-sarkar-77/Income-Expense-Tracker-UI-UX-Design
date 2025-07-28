@@ -16,10 +16,6 @@ A beautifully designed mobile application for tracking personal income and expen
 - **Clean UI**: Modern interface with color-coded sections (green for income, red for expenses)
 - **BDT Currency Support**: Built specifically for Bangladeshi Taka currency
 
-## 📱 Preview
-
-![Tracker UI]([Income%20Tracker%20UI_UX%20Design.jpg](https://www.figma.com/design/93CcdlAfZkvyV4S0y6VIQc/Income-Tracker-UI-UX-Design?node-id=0-1&t=TmfXURN9E6Oa7eud-1))
-
 ## Design Resources
 
 - **Figma Design**: [Income Tracker UI/UX Design](https://www.figma.com/design/93CcdlAfZkvyV4S0y6VIQc/Income-Tracker-UI-UX-Design?node-id=0-1&t=TmfXURN9E6Oa7eud-1)
